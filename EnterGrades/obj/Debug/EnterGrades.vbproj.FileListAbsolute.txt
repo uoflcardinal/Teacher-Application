@@ -1,0 +1,9 @@
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\bin\Debug\EnterGrades.exe.config
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\obj\Debug\EnterGrades.Resources.resources
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\obj\Debug\EnterGrades.vbproj.GenerateResource.Cache
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\obj\Debug\EnterGrades.xml
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\bin\Debug\EnterGrades.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\bin\Debug\EnterGrades.pdb
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\bin\Debug\EnterGrades.xml
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\obj\Debug\EnterGrades.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\EnterGrades\EnterGrades\obj\Debug\EnterGrades.pdb
